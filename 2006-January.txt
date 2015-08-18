@@ -1,0 +1,64 @@
+From pyradm-news-admin at lists.berlios.de  Thu Jan 12 15:16:23 2006
+From: pyradm-news-admin at lists.berlios.de (pyradm-news-admin at lists.berlios.de)
+Date: Thu, 12 Jan 2006 17:16:23 +0300
+Subject: [Pyradm-news] Maillist created
+Message-ID: <43C664B7.3000207@remizov.pp.ru>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Subj.
+
+- --
+? ?????????. | WBR.         |
+    ???????. |     Alexey.  |
+- ----------------------------|
+mailto:alexey at remizov.pp.ru |
+jabber:rem at jabber.cad.ru    |
+- ----------------------------'
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.1 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+
+iD8DBQFDxmS3hv8Dsykvga8RAnT7AJ0fIKsjjkHbiPSZ7RnqsbwPHqwEbQCePBF6
+C22J9+0+2wmv038bxKwfnoE=
+=O4xm
+-----END PGP SIGNATURE-----
+
+
+From pyradm-news-admin at lists.berlios.de  Thu Jan 12 15:21:10 2006
+From: pyradm-news-admin at lists.berlios.de (pyradm-news-admin at lists.berlios.de)
+Date: Thu, 12 Jan 2006 17:21:10 +0300
+Subject: [Pyradm-news] Maillist created
+In-Reply-To: <43C664B7.3000207@remizov.pp.ru>
+References: <43C664B7.3000207@remizov.pp.ru>
+Message-ID: <43C665D6.1020301@remizov.pp.ru>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+pyradm-news-admin at berlios.de wrote:
+> Subj.
+> 
+_______________________________________________
+Pyradm-news mailing list
+Pyradm-news at lists.berlios.de
+http://lists.berlios.de/mailman/listinfo/pyradm-news
+
+- --
+? ?????????. | WBR.         |
+    ???????. |     Alexey.  |
+- ----------------------------|
+mailto:alexey at remizov.pp.ru |
+jabber:rem at jabber.cad.ru    |
+- ----------------------------'
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.1 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+
+iD8DBQFDxmXWhv8Dsykvga8RAujvAJ9w3cPUwq76ARQY6q1f1JOSEPp+JQCgkQQT
+scLirSs6Cm1JYlHHJmW3qbc=
+=l3UQ
+-----END PGP SIGNATURE-----
+
+
